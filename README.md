@@ -4,11 +4,11 @@ My name is Lucas Felix 👦🇧🇷
 
 I'm a computer science student at Federal University of Paraíba and a complete passionate about programming.
   
-Web development enthusiast, I develop and learn **JavaScript**, HTML and CSS and seek to improve myself every day more in tools like **node.js**, **react** and **react native**.
+Web development enthusiast, working on the front-end with **React** using **Styled Components**.
 
   
 - 🚀 Available for new professional opportunities
--  📖 I'm currently learning: PostgreSQL, TypeScript
+-  📖 I'm currently learning: TypeScript, React Native
 -  ❓Ask me about anything related to JavaScript
 -  ❤️ Passions: besides programming, I love realistic drawing and drums
 
