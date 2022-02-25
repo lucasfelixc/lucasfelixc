@@ -2,15 +2,15 @@
 
 My name is Lucas Felix 👦🇧🇷
 
-I'm a computer science student at Federal University of Paraíba and a complete passionate about programming.
+I'm a software engineering student and a complete passionate about programming.
   
 Web development enthusiast, working on the front-end with **React** using **Styled Components**.
 
   
 - 🚀 Available for new professional opportunities
--  📖 I'm currently learning: TypeScript, React Native
--  ❓Ask me about anything related to JavaScript
--  ❤️ Passions: besides programming, I love realistic drawing and drums
+- 📖 I'm currently learning: Microfrontends, Design System
+- ❓Ask me about anything related to JavaScript
+- ❤️ Passions: besides programming, I love realistic drawing and drums
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasfelixc&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelixc&theme=dark&hide=c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats)
 
