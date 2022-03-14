@@ -7,7 +7,7 @@ I'm a software engineering student and a complete passionate about programming.
 Web development enthusiast, working on the front-end with **React** using **Styled Components**.
 
   
-- 🚀 Available for new professional opportunities
+- 🚀 I currently work as **Frontend Developer** at [Get In](https://www.getinapp.com.br/)
 - 📖 I'm currently learning: Microfrontends, Design System
 - ❓Ask me about anything related to JavaScript
 - ❤️ Passions: besides programming, I love realistic drawing and drums
