@@ -2,9 +2,9 @@
 
 My name is Lucas Felix 👦🇧🇷
 
-I'm a software engineering student and a complete passionate about programming.
+I'm a software engineer and a complete passionate about programming.
   
-Web development enthusiast, working on the front-end with **React** using **Styled Components**.
+Web development enthusiast, working on the front-end with **React**.
 
   
 - 🚀 I currently work as **Frontend Developer** at [Get In](https://www.getinapp.com.br/)
