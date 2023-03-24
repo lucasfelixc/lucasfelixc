@@ -7,7 +7,7 @@ I'm a software engineer and a complete passionate about programming.
 Web development enthusiast, working on the front-end with **React**.
 
   
-- 🚀 I currently work as **Frontend Developer** at [Get In](https://www.getinapp.com.br/)
+- 🚀 I currently work as **Frontend Developer**
 - 📖 I'm currently learning: Back-end development with Node.js and Golang
 - ❓Ask me about anything related to JavaScript
 - ❤️ Passions: besides programming, I love realistic drawing and drums
