@@ -16,4 +16,4 @@ Web development enthusiast, working on the front-end with **React**.
 
 Reach me out 👇
 
-[![Instagram Badge](https://img.shields.io/badge/-@lucasfelixc-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/lucasfelixc/?hl=pt-br)](https://www.instagram.com/lucasfelixc/?hl=pt-br) [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Felix-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfelixdev/)](https://www.linkedin.com/in/lucasfelixdev/) [![Gmail Badge](https://img.shields.io/badge/-lucasfelixdev@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfelixdev@gmail.com)](mailto:lucasfelixdev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Felix-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfelixdev/)](https://www.linkedin.com/in/lucasfelixdev/) [![Gmail Badge](https://img.shields.io/badge/-lucasfelixdev@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfelixdev@gmail.com)](mailto:lucasfelixdev@gmail.com)
