@@ -8,7 +8,7 @@ Web development enthusiast, working on the front-end with **React**.
 
   
 - 🚀 I currently work as **Frontend Developer**
-- 📖 I'm currently learning: Back-end development with Node.js and Golang
+- 📖 I'm currently learning: Tests, accessibility and GraphQL
 - ❓Ask me about anything related to JavaScript
 - ❤️ Passions: besides programming, I love realistic drawing and drums
 
